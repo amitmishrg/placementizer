@@ -10,9 +10,9 @@ import { FormattedMessage } from 'react-intl';
 import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
 
-import { makeSelectRepos, makeSelectLoading, makeSelectError } from 'containers/App/selectors';
+import { makeSelectRepos, makeSelectLoading, makeSelectError } from 'containers/app-container/selectors';
 import messages from './messages';
-import { loadRepos } from '../App/actions';
+import { loadRepos } from '../app-container/actions';
 import { changeUsername } from './actions';
 import { makeSelectUsername } from './selectors';
 

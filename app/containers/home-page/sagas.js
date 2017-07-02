@@ -4,11 +4,11 @@
 
 import { take, call, put, select, cancel, takeLatest } from 'redux-saga/effects';
 import { LOCATION_CHANGE } from 'react-router-redux';
-import { LOAD_REPOS } from 'containers/App/constants';
-import { reposLoaded, repoLoadingError } from 'containers/App/actions';
+import { LOAD_REPOS } from 'containers/app-container/constants';
+import { reposLoaded, repoLoadingError } from 'containers/app-container/actions';
 
 import request from 'utils/request';
-import { makeSelectUsername } from 'containers/HomePage/selectors';
+import { makeSelectUsername } from 'containers/home-page/selectors';
 
 /**
  * Github repos request/response handler
