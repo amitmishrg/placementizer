@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "companyName": "Google.com",
+      "companyUrl": "www.google.com",
+      "rating": 4.8,
+      "date": "22 Sep 2017",
+      "studentList": [
+        {
+          "studentName": "amit",
+          "profileThumb": "amit.jpeg"
+        },
+        {
+          "studentName": "utkarsh",
+          "profileThumb": "utkarsh.jpeg"
+        },
+        {
+          "studentName": "john",
+          "profileThumb": "john.jpeg"
+        }
+      ],
+      "totalStudentCount": 15
+    },
+    {
+      "id": 2,
+      "companyName": "Faceboo.com",
+      "companyUrl": "www.facebook.com",
+      "rating": 4,
+      "date": "10 May 2017",
+      "studentList": [
+        {
+          "studentName": "amit",
+          "profileThumb": "amit.jpeg"
+        },
+        {
+          "studentName": "utkarsh",
+          "profileThumb": "utkarsh.jpeg"
+        },
+        {
+          "studentName": "john",
+          "profileThumb": "john.jpeg"
+        }
+      ],
+      "totalStudentCount": 12
+    },
+    {
+      "id": 3,
+      "companyName": "Likedin.com",
+      "companyUrl": "www.linkedin.com",
+      "rating": 4.1,
+      "date": "20 Oct 2017",
+      "studentList": [
+        {
+          "studentName": "amit",
+          "profileThumb": "amit.jpeg"
+        },
+        {
+          "studentName": "utkarsh",
+          "profileThumb": "utkarsh.jpeg"
+        },
+        {
+          "studentName": "john",
+          "profileThumb": "john.jpeg"
+        }
+      ],
+      "totalStudentCount": 14
+    },
+    {
+      "id": 4,
+      "companyName": "Github.com",
+      "companyUrl": "www.github.com",
+      "rating": 3.8,
+      "date": "22 Sep 2017",
+      "studentList": [
+        {
+          "studentName": "amit",
+          "profileThumb": "amit.jpeg"
+        },
+        {
+          "studentName": "utkarsh",
+          "profileThumb": "utkarsh.jpeg"
+        },
+        {
+          "studentName": "john",
+          "profileThumb": "john.jpeg"
+        }
+      ],
+      "totalStudentCount": 10
+    },
+    {
+      "id": 5,
+      "companyName": "Google.com",
+      "companyUrl": "www.google.com",
+      "rating": 2.4,
+      "date": "22 Sep 2017",
+      "studentList": [
+        {
+          "studentName": "amit",
+          "profileThumb": "amit.jpeg"
+        },
+        {
+          "studentName": "utkarsh",
+          "profileThumb": "utkarsh.jpeg"
+        },
+        {
+          "studentName": "john",
+          "profileThumb": "john.jpeg"
+        }
+      ],
+      "totalStudentCount": 8
+    },
+    {
+      "id": 6,
+      "companyName": "flipkart.com",
+      "companyUrl": "www.flipkart.com",
+      "rating": 4.8,
+      "date": "22 Sep 2017",
+      "studentList": [
+        {
+          "studentName": "amit",
+          "profileThumb": "amit.jpeg"
+        },
+        {
+          "studentName": "utkarsh",
+          "profileThumb": "utkarsh.jpeg"
+        },
+        {
+          "studentName": "john",
+          "profileThumb": "john.jpeg"
+        }
+      ],
+      "totalStudentCount": 5
+    }
+  ]

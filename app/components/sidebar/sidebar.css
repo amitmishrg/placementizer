@@ -1,0 +1,28 @@
+body {
+  background: #F8FBFE;
+}
+.sidebar-wrapper {
+    background: #FEFEFE;
+    margin-left: -15px;
+    box-shadow: 1px 9px 9px rgba(0, 0, 0, 0.1);
+    height: 100vh;
+    .navbar-nav {
+      margin-top: 30px;
+      .nav-link {
+        padding: 15px 30px;
+        color: #EE6D76;
+        &.active {
+          background: rgba(238, 109, 118, 0.1);
+        }
+      }
+    }
+    .navbar-brand {
+      color: #EE6D76;
+      font-size: 30px;
+      padding: 15px 0 15px 30px!important;
+      padding-bottom: 10px;
+      background: rgba(238, 109, 118, 0.1);
+      display: block;
+      margin-right: 0;
+    }
+}

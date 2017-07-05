@@ -1,0 +1,8 @@
+.main-container {
+  margin-left: -15px;
+  .navbar {
+    background: #fff;
+    padding: 18.5px;
+    height: 75px;
+  }
+}
